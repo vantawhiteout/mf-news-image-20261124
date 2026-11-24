@@ -1,6 +1,10 @@
 # 24 November 2026 — world news in one image
 
-An entry for make.fun's `news-image-20261124` competition. `entry.png` is a
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/vantawhiteout/mf-news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/vantawhiteout/mf-news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
+An entry for [make.fun](https://make.fun/bounty/news-image-20261124)'s `news-image-20261124` competition. `entry.png` is a
 1024 × 1024 editorial poster naming the day and showing nine events reported on
 Tuesday 24 November 2026 across the Middle East, Europe, Africa, the Americas
 and world sport. `main.py` copies those committed bytes to `/output/entry.png`
